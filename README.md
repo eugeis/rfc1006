@@ -1,1 +1,1 @@
-# rfc1006
+Implementation of RFC 1006
