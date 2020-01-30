@@ -12,3 +12,7 @@
 
 # Project-local glide cache, RE: https://github.com/Masterminds/glide/issues/736
 .glide/
+/build/
+/rfc1006/build/
+/rfc1006_des/build/
+/rfc1006_des/out/production/classes/
